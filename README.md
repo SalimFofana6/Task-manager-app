@@ -3,7 +3,7 @@
 ## Installation Instructions
 
 1. Clone the repository:
-git clone https://github.com/yourusername/task-manager-app.git
+git clone https://github.com/SalimFofana6/task-manager-app.git
 
 2. Open the project folder:
 cd task-manager-app
